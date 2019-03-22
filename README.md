@@ -7,3 +7,5 @@
 |Kronenbourg 1664 | 7.0 | Crisp, light, graininess, slightly hoppy aroma, little aftertaste. |
 |Grolsch Brewery | 8.5 | Delicious |
 |Heineken| 9.5 | Better than Grolsch |
+|Żywiec| 8.5 | Good tasty Polish beer |
+|Newcastle Brown Ale| 8.0 | Strong start gradual fade, not very bitter |
