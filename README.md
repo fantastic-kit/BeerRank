@@ -9,3 +9,5 @@
 |[Heineken](https://en.wikipedia.org/wiki/Heineken)| 9.5 | Better than Grolsch |
 |[Żywiec](https://en.wikipedia.org/wiki/%C5%BBywiec_Brewery)| 8.5 | Good tasty Polish beer |
 |[Newcastle Brown Ale](https://en.wikipedia.org/wiki/Newcastle_Brown_Ale)| 8.0 | Strong start gradual fade, not very bitter |
+|Okanagan Apple Cider| 9.0 | Intensely satisfying apple juice. Strong initial burn, delicious apple aftertaste |
+|[Sapporo Premium](https://en.wikipedia.org/wiki/Sapporo_Breweries)| 9.9 | Refreshing lager, insanely crisp, perfect to go with any East Asian meal. The finish is hella clean. |
